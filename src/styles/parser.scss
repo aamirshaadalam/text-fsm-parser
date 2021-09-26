@@ -1,0 +1,13 @@
+.parser {
+  height: calc(100% - 50px);
+  width: 100%;
+  display: flex;
+}
+
+.status {
+  border: 1px solid;
+  height: 40px;
+  margin: 5px 10px;
+  line-height: 40px;
+  padding: 0px 10px;
+}
